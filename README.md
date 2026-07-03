@@ -17,7 +17,5 @@ Presenters see a pie chart with the current breakdown of red/yellow/green respon
 
 No logins necessary.
 
-Pick a class id such, like "myclass-XYZ123":
-
-- student link (traffic-light): https://www.talleylambert.com/classlight/mycourse-XYZ123
-- summary link (pie chart): https://www.talleylambert.com/classlight/mycourse-XYZ123/summary
+- student link (traffic-light): https://bobiac.github.io/classlight/bobiac2026
+- summary link (pie chart): https://bobiac.github.io/classlight/bobiac2026/summary
